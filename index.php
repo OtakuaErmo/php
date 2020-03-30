@@ -1,5 +1,7 @@
 <?php
 
-	echo "hello world!"
+	echo "hello world! HLK";
+
+	echo "isso somente e um teste;";
 
 ?>
